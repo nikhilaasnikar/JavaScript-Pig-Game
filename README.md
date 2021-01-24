@@ -1,3 +1,3 @@
 # JavaScript-Pig-Game
 
-<img src="/image/pig-game-flowchart.png" />
+<img src="/images/pig-game-flowchart.png" />
